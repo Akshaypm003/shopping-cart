@@ -3,7 +3,7 @@ import Navbar from '../Components/Navbar'
 import Products from '../Components/Products'
 
 const Home = () => {
-    console.log('home')
+    
   return (
     <>
         <Navbar/>
